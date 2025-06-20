@@ -1,0 +1,24 @@
+.footer {
+    width: 100%;
+    color: white;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    position: static;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.copyright {
+    font-size: 0.75em;
+    color: white;
+}
+
+.copyright a {
+    text-decoration: none;
+}

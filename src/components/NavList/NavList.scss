@@ -1,0 +1,24 @@
+.navlist {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+.navlist a {
+    color: black;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+.navlist a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.navlist-socials {
+    max-width: 1280px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
